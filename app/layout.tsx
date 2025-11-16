@@ -1,0 +1,1 @@
+import "./globals.css";export const metadata={title:"Watermelon Z 2.0 - KNOWN WASHERS"};export default function Layout({children}){return <html><body>{children}</body></html>}
